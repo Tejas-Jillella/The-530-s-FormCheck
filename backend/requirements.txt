@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+ffmpeg-python
+google-generativeai
+python-multipart
+Pillow
+requests

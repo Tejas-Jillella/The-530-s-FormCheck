@@ -1,0 +1,24 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/routes/__pycache__/
+backend/services/__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+backend/.env
+.env
+
+# Node
+frontend/node_modules/
+
+# Uploads & frames (runtime temp files)
+/tmp/formcheck_uploads/
+/tmp/formcheck_frames/
+
+# macOS
+.DS_Store
+
+# Vite
+frontend/dist/
